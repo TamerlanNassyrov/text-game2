@@ -1,0 +1,50 @@
+body{
+    background-image: url{https://99px.ru/sstorage/53/2015/07/mid_138570_9023.jpg};
+}
+.dflex{ 
+    display: flex; 
+} 
+.center{ 
+    justify-content: center; 
+    align-items: center; 
+} 
+#gamebox{ 
+    width: 900px; 
+ 
+} 
+h1{ 
+    text-align: center; 
+    font-size: 150px; 
+} 
+h2{  
+    font-size: 50px; 
+}
+p{ 
+    font-size: 50px; 
+} 
+input{ 
+    font-size: 50px; 
+    padding: 10px 20px; 
+    width: calc(100% - 40px); 
+    box-shadow: 8px 11px 0px 1px black; 
+
+} 
+.mt{ 
+    margin-top: 100px; 
+} 
+.btn{ 
+    background-color: black; 
+    font-size: 30px; 
+    color: white; 
+    padding: 10px 30px; 
+    cursor: pointer; 
+    box-shadow: 8px 11px 0px 1px rgb(110, 110, 110); 
+} 
+.link{ 
+    font-size: 30px; 
+    color: rgb(0, 0, 0); 
+    padding: 10px 30px; 
+    cursor: pointer; 
+    text-decoration: none; 
+     
+} 
